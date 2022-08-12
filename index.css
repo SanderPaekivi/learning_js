@@ -8,7 +8,7 @@ body {
 
 .background-img{
     /* background-image: {{url_for('static', filename='profile_pic2.jpeg' }}; */
-    background-image:url('bckg.jpg');
+    background-image:url('bckg1.jpg');
     background-position:top ;
     background-size: cover;
     display: inline-block;
