@@ -12,5 +12,8 @@ let countStr = 0
 function save() {
     countStr += count
     saveEl.innerText += countStr
+    
+    count = 0
+    countEl.innerText = count
 
 }
