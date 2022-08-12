@@ -12,7 +12,12 @@ body {
     background-position:top ;
     background-size: cover;
     display: inline-block;
+    border-radius: 25px;
     }
+p {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
 
 h1 {
     margin-top: 10px;
