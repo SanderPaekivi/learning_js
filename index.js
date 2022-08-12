@@ -8,9 +8,9 @@ function increment() {
     countEl.innerText = count
 }
 
-
+let countStr = 0
 function save() {
-    let countStr = count + " - "
+    countStr += count
     saveEl.innerText += countStr
 
 }
