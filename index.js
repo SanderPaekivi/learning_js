@@ -11,7 +11,7 @@ function increment() {
 let countStr = 0
 function save() {
     countStr += count
-    saveEl.textContent = countStr
+    saveEl.textContent = 'Total bad decisions = atleast ' + countStr
     
     count = 0
     countEl.textContent = count
