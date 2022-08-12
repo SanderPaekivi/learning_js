@@ -11,6 +11,7 @@ body {
     background-image:url('bckg.jpg');
     background-position:top ;
     background-size: cover;
+    display: inline-block;
     }
 
 h1 {
